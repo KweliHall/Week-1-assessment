@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = ("a software that tracks and changes any set of files. that programmers uses often.");
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = ("Github is a web-based interface that uses git, the software makes it so that many people can make changes to webpages at the same time.");
 //////////////////PROBLEMS 3 - 8////////////////////
 /*
     For the next several problems you will be creating objects containing information about different git 
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+let init = ("this makes a empty git repository on your computer, for you to put files into later.[git init]");
 //////////////////PROBLEM 4////////////////////
 /*
     Create an object called 'clone' with 'description' and 'code' properties 
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+let clone = ("this command line targets an existing repository and creats a cloan.[git-clone]");
 //////////////////PROBLEM 5////////////////////
 /*
     Create an object called 'status' with 'description' and 'code' properties 
@@ -50,7 +50,7 @@
 */
 
 //CODE HERE
-
+let status = ("it shows the status of your repository.[git status]");
 //////////////////PROBLEM 6////////////////////
 /*
     Create an object called 'add' with 'description' and 'code' properties 
@@ -58,7 +58,7 @@
 */
 
 //CODE HERE
-
+let add = ("is the first command in a chain of operations that directs git to save a snapshot of the current project.[git add]");
 //////////////////PROBLEM 7////////////////////
 /*
     Create an object called 'commit' with 'description' and 'code' properties
@@ -66,7 +66,7 @@
 */
 
 //CODE HERE
-
+let commit = ("used to save the changes you made to a local repository.[git commit]");
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -75,3 +75,4 @@
 */
 
 //CODE HERE
+let push = ("this is useed to upload a local repository that you made and is pushing it to a remote repository aka GitHub.[git push]"); 
